@@ -2,10 +2,6 @@
 
 Primera versión de un módulo de control de cargas de 24 V basado en ESP32, con salidas mediante relés y conectividad Ethernet para permitir posteriormente el control remoto de cargas eléctricas.
 
-<img width="1999" height="1414" alt="image" src="https://github.com/user-attachments/assets/8fca041d-40b6-42d8-b9cf-7906d779dfdb" />
-<img width="1999" height="1414" alt="image" src="https://github.com/user-attachments/assets/247f821e-b6c6-4cf3-b386-0ad933a0659a" />
-
-<img width="1999" height="1414" alt="image" src="https://github.com/user-attachments/assets/fca4e2cd-9d09-40a0-9ed2-52c465815a59" />
 
 
 # ESP32 Ethernet 24V Relay Controller – V1
@@ -33,7 +29,11 @@ Módulo de control de cargas de 24V basado en ESP32 con conectividad Ethernet pa
 - ⏳ Ensamblaje y pruebas funcionales
 
 ## 📷 Galería
-[Aquí deberías subir capturas del esquemático, layout 3D, y fotos cuando tengas el prototipo físico]
+
+<img width="1999" height="1414" alt="image" src="https://github.com/user-attachments/assets/8fca041d-40b6-42d8-b9cf-7906d779dfdb" />
+<img width="1999" height="1414" alt="image" src="https://github.com/user-attachments/assets/247f821e-b6c6-4cf3-b386-0ad933a0659a" />
+
+<img width="1999" height="1414" alt="image" src="https://github.com/user-attachments/assets/fca4e2cd-9d09-40a0-9ed2-52c465815a59" />
 
 ## 🔮 Próximas versiones
 - V2: Integración con MQTT para control remoto vía web
