@@ -1,6 +1,3 @@
-## ESP32 Ethernet 24 V Relay Controller – V1
-
-Primera versión de un módulo de control de cargas de 24 V basado en ESP32, con salidas mediante relés y conectividad Ethernet para permitir posteriormente el control remoto de cargas eléctricas.
 
 
 
